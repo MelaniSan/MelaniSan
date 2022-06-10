@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
+href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Melani Sandalika</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
 
