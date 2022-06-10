@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="#"><img width="25%" height="auto" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b952dc4cbb453bbba930912db5e7342f6530a927086c&rid=giphy.gif&ct=g" "/></a>
+    <a href="#"><img width="50%" height="auto" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b952dc4cbb453bbba930912db5e7342f6530a927086c&rid=giphy.gif&ct=g" "/></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Melani Sandalika</h1>
