@@ -1,9 +1,10 @@
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <h1 align="center">Hi 👋, I'm Melani Sandalika</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melanisan&label=Profile%20views&color=0e75b6&style=flat" alt="melanisan" /> </p>
 
+<h3 align="left">About me</h3>
 - 🔭 I’m currently working on **"ERP" Enterprise Resource Planning System**
 
 - 🌱 I’m currently learning **AngularJs**
@@ -16,7 +17,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 - ⚡ Fun fact **I love music**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melani-sandalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melani-sandalika" height="30" width="40" /></a>
 <a href="https://instagram.com/melani_sandalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melani_sandalika" height="30" width="40" /></a>
