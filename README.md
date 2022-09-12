@@ -12,7 +12,7 @@
      
 - 🔭 I’m currently working on **"ERP" Enterprise Resource Planning System**
 
-- 🌱 I’m currently learning **AngularJs**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
