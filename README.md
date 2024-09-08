@@ -9,8 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melanisan&label=Profile%20views&color=0e75b6&style=flat" alt="melanisan" /> </p>
 
 <h3 align="left">About me</h3><br>
-
-- 📝 I regularly write articles on [https://medium.com/@melanis](https://medium.com/@melanis)
+- 📝 Read my articles on [https://medium.com/@melanis](https://medium.com/@melanis)
 
 - 📫 How to reach me **melanisandalika@gmail.com**
 
